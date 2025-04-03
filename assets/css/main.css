@@ -609,6 +609,14 @@ section,
 }
 
 @media (max-width: 768px) {
+  .hero{
+    min-height: 50vh; 
+  }
+
+  .hero img{
+
+  }
+
   .hero h2 {
     font-size: 32px;
   }
